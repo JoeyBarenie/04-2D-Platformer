@@ -1,23 +1,20 @@
-# 04-2D-Platformer
-The creation of a 2D Platformer game using the Godot game engine.
+# 2D-Platformer-Character
 
-March 22nd, 2022
+A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
 
 ## Implementation
-Includes controlled player
-Player can jump
-Camera follows player
-Includes multiple enemies
-Includes enemies with different abilities
-Multiple Levels
-Different themed levels
-A save and load function 
-larger levels
-menu
+Built using Godot 3.2.3
+
+The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
+
 ## References
+None
 
 ## Future Development
-Possibility for future development and polishing
+None
 
-## Created by
-Joey Barenie
+## Extra Credit
+None
+
+## Created by 
+Jason Francis
